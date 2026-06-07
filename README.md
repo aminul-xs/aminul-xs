@@ -34,20 +34,6 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 | 📦 **[WPMet](https://wpmet.com/)** — Premium WordPress plugins ecosystem · [@wpmetcom](https://github.com/wpmetcom) |
 | 🦊 **[Roxnor](https://roxnor.com/)** — Digital product studio |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminul-xs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul-xs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-xs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
----
 
 ## 💬 Let's Connect
 
