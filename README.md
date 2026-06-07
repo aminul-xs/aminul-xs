@@ -34,7 +34,7 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-xs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-xs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
@@ -60,8 +60,3 @@ Whether it's about **web development**, **WordPress**, **React**, or **career gr
   <a href="mailto:hello@theaminul.com">📬 hello@theaminul.com</a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminul-xs&color=blue&style=flat-square" alt="Profile views" />
-</p>
