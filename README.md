@@ -26,6 +26,16 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 
 ---
 
+## 🏢 Organizations & Work
+
+| | |
+|---|---|
+| 🚀 **[XpeedStudio](https://xpeedstudio.com/)** — My employer, building world-class WordPress & web tools · [@xpeedstudio](https://github.com/xpeedstudio) |
+| 📦 **[WPMet](https://wpmet.com/)** — Premium WordPress plugins ecosystem · [@wpmetcom](https://github.com/wpmetcom) |
+| 🦊 **[Roxnor](https://roxnor.com/)** — Digital product studio |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -36,16 +46,6 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-xs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
-
----
-
-## 🏢 Organizations & Work
-
-| | |
-|---|---|
-| 🚀 **[XpeedStudio](https://xpeedstudio.com/)** — My employer, building world-class WordPress & web tools · [@xpeedstudio](https://github.com/xpeedstudio) |
-| 📦 **[WPMet](https://wpmet.com/)** — Premium WordPress plugins ecosystem · [@wpmetcom](https://github.com/wpmetcom) |
-| 🦊 **[Roxnor](https://roxnor.com/)** — Digital product studio |
 
 ---
 
