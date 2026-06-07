@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currently working at [@xpeedstudio](https://github.com/xpeedstudio). I specialize in building modern, performant web experiences using **WordPress**, **React**, and **Next.js**.
+I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currently working at [@roxnor](https://www.linkedin.com/company/roxnorhq). I specialize in building modern, performant web experiences using **WordPress**, **React**, and **Next.js**.
 
 - 🔭 Currently contributing to **[@wpmetcom](https://github.com/wpmetcom)**
 - 🛠️ I build with: **WordPress · React · Next.js · JavaScript · PHP · TypeScript**
