@@ -12,8 +12,6 @@
   <a href="mailto:hello@theaminul.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
 ## 🙋‍♂️ About Me
 
 I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currently working at [@xpeedstudio](https://github.com/xpeedstudio). I specialize in building modern, performant web experiences using **WordPress**, **React**, and **Next.js**.
@@ -23,8 +21,6 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 - ✍️ I share career tips and dev insights — follow along!
 - 📍 Based in **Dhaka, Bangladesh**
 - 📬 Reach me at: **[hello@theaminul.com](mailto:hello@theaminul.com)**
-
----
 
 ## 🏢 Organizations & Work
 
