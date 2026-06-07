@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://your-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/your-x-handle" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/your-personal-github" target="_blank"><img src="https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub" /></a>
+  <a href="https://theaminul.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/theaminulai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/theaminulai" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/aminul-xs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hello@theaminul.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -21,21 +22,7 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 - 🛠️ I build with: **WordPress · React · Next.js · JavaScript · PHP · TypeScript**
 - ✍️ I share career tips and dev insights — follow along!
 - 📍 Based in **Dhaka, Bangladesh**
-- 📬 Reach me at: **your-email@example.com**
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 📬 Reach me at: **[hello@theaminul.com](mailto:hello@theaminul.com)**
 
 ---
 
@@ -52,13 +39,13 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 
 ---
 
-## 🤝 Organizations
+## 🏢 Organizations & Work
 
-<p>
-  <a href="https://github.com/wpmetcom"><img src="https://img.shields.io/badge/@wpmetcom-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/metafizzy"><img src="https://img.shields.io/badge/@metafizzy-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/xpeedstudio"><img src="https://img.shields.io/badge/@xpeedstudio-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+| | |
+|---|---|
+| 🚀 **[XpeedStudio](https://xpeedstudio.com/)** — My employer, building world-class WordPress & web tools · [@xpeedstudio](https://github.com/xpeedstudio) |
+| 📦 **[WPMet](https://wpmet.com/)** — Premium WordPress plugins ecosystem · [@wpmetcom](https://github.com/wpmetcom) |
+| 🦊 **[Roxnor](https://roxnor.com/)** — Digital product studio |
 
 ---
 
@@ -67,10 +54,10 @@ I'm a passionate **Front-End Engineer** based in **Dhaka, Bangladesh**, currentl
 Whether it's about **web development**, **WordPress**, **React**, or **career growth** — I'm always happy to chat!
 
 <p>
-  <a href="https://your-website.com">🌐 Personal Website</a> ·
-  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> ·
-  <a href="https://x.com/your-x-handle">🐦 X (Twitter)</a> ·
-  <a href="https://github.com/your-personal-github">🐱 Personal GitHub</a>
+  <a href="https://theaminul.com">🌐 theaminul.com</a> ·
+  <a href="https://www.linkedin.com/in/theaminulai">💼 LinkedIn</a> ·
+  <a href="https://x.com/theaminulai">🐦 X (Twitter)</a> ·
+  <a href="mailto:hello@theaminul.com">📬 hello@theaminul.com</a>
 </p>
 
 ---
